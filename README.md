@@ -1,8 +1,8 @@
 # Machine-Learning-Algorthims
 A repository to document the various machine learning algorithms and their applications in a detailed way
 
-## The file Machine Learning Algorithms contains the syntax and applications 
-## The individual files contain a problem solved by the algorithm
+#### The file Machine Learning Algorithms contains the syntax and applications 
+#### The individual files contain a problem solved by the algorithm
 
 # List of Algorithms
 ## Linear Regression 
