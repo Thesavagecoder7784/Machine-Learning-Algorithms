@@ -6,6 +6,9 @@ A repository to document the various machine learning algorithms and their appli
 
 # List of Algorithms
 ## Linear Regression 
-1. Contains syntax of train test split and predicting using Linear Regression to predict prices of the Boston Housing Dataset
-2. The application of the algorithm using it to predict the salary based on the years of experience
+1. Contains syntax of creating a Linear Regression model and predicting using Linear Regression to predict prices of the Boston Housing Dataset and calculating the accuracy.
+2. The application of the algorithm using it to predict the salary based on the years of experience and understanding by plotting the actual and predicted values
 
+## Logistic Regression
+1. Contains syntax of creating a Logistic Regression model and predicting using Linear Regression to predict the outcome of the Cancer Dataset
+2. The application of the algorithm using it to predict the outcome of whether the client will subscribe a term deposit of a bank and using some new methods such as classification report and confusion matrix
