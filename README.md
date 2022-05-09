@@ -10,5 +10,9 @@ A repository to document the various machine learning algorithms and their appli
 2. The application of the algorithm using it to predict the salary based on the years of experience and understanding by plotting the actual and predicted values
 
 ## Logistic Regression
-1. Contains syntax of creating a Logistic Regression model and predicting using Linear Regression to predict the outcome of the Cancer Dataset
-2. The application of the algorithm using it to predict the outcome of whether the client will subscribe a term deposit of a bank and using some new methods such as classification report and confusion matrix
+1. Contains syntax of creating a Logistic Regression model and predicting using Logistic Regression to predict the outcome of the Cancer Dataset
+2. The application of the algorithm using it to predict the outcome of whether the client will subscribe a term deposit of a bank and calculate the accuracy using some new methods such as classification report and confusion matrix
+
+## Decision Tree 1 - Iterative Dichotomiser 3
+1. Contains syntax of creating a Decision Tree model and predicting using Decisio Tree to predict the outcome of the Iris Dataset
+2. The application of the algorithm using it to predict the type of iris based on entered values and visualizing the data
