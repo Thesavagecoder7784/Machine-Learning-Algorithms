@@ -14,5 +14,9 @@ A repository to document the various machine learning algorithms and their appli
 2. The application of the algorithm using it to predict the outcome of whether the client will subscribe a term deposit of a bank and calculate the accuracy using some new methods such as classification report and confusion matrix
 
 ## Decision Tree 1 - Iterative Dichotomiser 3
-1. Contains syntax of creating a Decision Tree model and predicting using Decision Tree to predict the outcome of the Iris Dataset
-2. The application of the algorithm using it to predict the type of iris based on entered values and visualizing the data
+1. Contains syntax of creating a Decision Tree model (using entropy - ID3) and predicting using Decision Tree to predict the outcome of the Iris Dataset
+2. The application of the algorithm (Iterative Dichotomiser 3 - ID3) using it to predict the type of iris based on entered values and visualizing the data and the Decision tree
+
+## Decision Tree 2 - CART (Classification & Regression Tree)
+1. Contains syntax of creating a Decision Tree model (using gini impurity) and predicting using Decision Tree to predict the outcome of the Iris Dataset
+2. The application of the algorithm (CART - Classification & Regression Tree) using it to predict the type of iris based on entered values and visualizing the data and the Decision Tree
