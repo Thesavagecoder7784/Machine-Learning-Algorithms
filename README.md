@@ -24,3 +24,7 @@ A repository to document the various machine learning algorithms and their appli
 ## Gaussian Naive Bayes Algorithm
 1. Contains syntax of creating a basic Gaussian Naive Bayes Algorithm and predicting the outcome of the Iris dataset
 2. The application of the Gaussian Naive Bayes Algorithm and understanding how it predicts the type of iris and visualizing the data and calculating the accuracy
+
+## KMeans Clustering Algorithm
+1. Contains syntax of creating a basic KMeans Clustering Algorithm and predicting the outcome of the penguins dataset
+2. The application of the KMeans Clustering Algorithtm and  understanding how it predicts the type of penguin and visualizing the data and calculating the accuracy using silhouette smaple 
