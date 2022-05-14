@@ -27,4 +27,4 @@ A repository to document the various machine learning algorithms and their appli
 
 ## KMeans Clustering Algorithm
 1. Contains syntax of creating a basic KMeans Clustering Algorithm and predicting the outcome of the penguins dataset
-2. The application of the KMeans Clustering Algorithtm and  understanding how it predicts the type of penguin and visualizing the data and calculating the accuracy using silhouette smaple 
+2. The application of the KMeans Clustering Algorithtm and  understanding how it predicts the type of penguin and visualizing the data and calculating the accuracy using silhouette samples
