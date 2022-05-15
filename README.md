@@ -27,4 +27,8 @@ A repository to document the various machine learning algorithms and their appli
 
 ## KMeans Clustering Algorithm - Clustering
 1. Contains syntax of creating a basic KMeans Clustering Algorithm and predicting the outcome of the penguins dataset
-2. The application of the KMeans Clustering Algorithtm and  understanding how it predicts the type of penguin and visualizing the data and calculating the accuracy using silhouette samples
+2. The application of the KMeans Clustering Algorithtm and understanding how it predicts the type of penguin and visualizing the data and calculating the accuracy using silhouette samples
+
+## KNN (K-Nearest Neighbours) Classifier
+1. Contains syntax of creating a basic KNN(K-Nearest Neighbours) Classifier Algorithm and predicting the outcome of the wine dataset
+2. The application of the KNN(K-Nearest Neighbours) Classifier Algorithtm and understanding how it predicts the type of wine and visualizing the testing and training accuracy
