@@ -34,5 +34,9 @@ A repository to document the various machine learning algorithms and their appli
 2. The application of the KNN(K-Nearest Neighbours) Classifier Algorithtm and understanding how it predicts the type of wine and visualizing the testing and training accuracy
 
 ## Support Vector Classifier (SVC) - Classification
-1. Contains syntax of creating a basic Support Vector Classifier (SVC)r Algorithm and predicting the outcome of the breast cancer dataset
-2. The application of the Support Vector Classifier (SVC) Algorithtm and understanding how it predicts the type of iris and visualizing the data
+1. Contains syntax of creating a basic Support Vector Classifier (SVC) Algorithm and predicting the outcome of the breast cancer dataset
+2. The application of the Support Vector Classifier (SVC) Algorithm and understanding how it predicts the type of iris and visualizing the data
+
+## Random Forest Classifier - Classification
+1. Contains syntax of creating a basic Random Forest Classifier Algorithm and predicting the outcome of the iris dataset
+2. The application of the Random Forest Classifier Algorithm and understanding how it predicts the type of penguin and visualizing the data
