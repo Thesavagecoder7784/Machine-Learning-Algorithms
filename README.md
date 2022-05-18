@@ -40,3 +40,7 @@ A repository to document the various machine learning algorithms and their appli
 ## Random Forest Classifier - Classification
 1. Contains syntax of creating a basic Random Forest Classifier Algorithm and predicting the outcome of the iris dataset
 2. The application of the Random Forest Classifier Algorithm and understanding how it predicts the type of penguin and visualizing the data
+
+## Gradient Boosting Classifier - Classification
+1. Contains the syntax of creating a basic Gradient Boosting Classifier Algorithm and predicting the outcome of the breast cancer dataset
+2. The application of the Gradient Boosting Classifier Algorithm and understanding how it predicts the outcome of the PIMA India Diabetes dataset 
