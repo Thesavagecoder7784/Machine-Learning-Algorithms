@@ -45,6 +45,10 @@ A repository to document the various machine learning algorithms and their appli
 1. Contains the syntax of creating a basic Gradient Boosting Classifier Model and predicting the outcome of the breast cancer dataset
 2. The application of the Gradient Boosting Classifier Model and understanding how it predicts the outcome of the PIMA India Diabetes dataset 
 
+## Gradient Boosting Regressor - Regression
+1. Contains the syntax of creating a basic Gradient Boosting Regressor Model and predicting the outcome of a dataset created using the make_regression function of sklearn.datasets
+2. The application of the Gradient Boosting Regressor Model and understanding how it predicts the outcome of the dataset
+
 ## Ada Boost Classifier - Classification
 1. Contains the syntax of creating a basic Ada Boost Classifier Model and predicting the outcome on a dataset created using make_classification
 2. The application of the Ada Boost Classifier Model and understanding how it predicts if a person will get a stroke or not based on the data provided
