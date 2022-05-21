@@ -50,5 +50,9 @@ A repository to document the various machine learning algorithms and their appli
 2. The application of the Gradient Boosting Regressor Model and understanding how it predicts the price of a car based on the given values
 
 ## Ada Boost Classifier - Classification
-1. Contains the syntax of creating a basic Ada Boost Classifier Model and predicting the outcome on a dataset created using make_classification
+1. Contains the syntax of creating a basic Ada Boost Classifier Model and predicting the outcome on a dataset created using make_classification function of sklearn.dataset
 2. The application of the Ada Boost Classifier Model and understanding how it predicts if a person will get a stroke or not based on the data provided
+
+## Ada Boost Regressor - Regression
+1. Contains the syntax of creating a Ada Boost Regressor model and predicting the outcome on a dataset created using make_regression function of sklearn.dataset
+2. The application of the Ada Boost Regressor Model and understanding how it predicts the productivity of a worker based on the given features
