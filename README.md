@@ -47,7 +47,7 @@ A repository to document the various machine learning algorithms and their appli
 
 ## Gradient Boosting Regressor - Regression
 1. Contains the syntax of creating a basic Gradient Boosting Regressor Model and predicting the outcome of a dataset created using the make_regression function of sklearn.datasets
-2. The application of the Gradient Boosting Regressor Model and understanding how it predicts the outcome of the dataset
+2. The application of the Gradient Boosting Regressor Model and understanding how it predicts the price of a car based on the given values
 
 ## Ada Boost Classifier - Classification
 1. Contains the syntax of creating a basic Ada Boost Classifier Model and predicting the outcome on a dataset created using make_classification
