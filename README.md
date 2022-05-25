@@ -29,9 +29,13 @@ A repository to document the various machine learning algorithms and their appli
 1. Contains syntax of creating a basic KMeans Clustering Model and predicting the outcome of the penguins dataset
 2. The application of the KMeans Clustering Model and understanding how it predicts the type of penguin and visualizing the data and calculating the accuracy using silhouette samples
 
-## KNN (K-Nearest Neighbours) - Classification
+## KNN (K-Nearest Neighbours) Classifier - Classification
 1. Contains syntax of creating a basic KNN(K-Nearest Neighbours) Classifier Model and predicting the outcome of the wine dataset
 2. The application of the KNN(K-Nearest Neighbours) Classifier Model and understanding how it predicts the type of wine and visualizing the testing and training accuracy
+
+## KNN (K-Nearest Neighbours) Regressor - Classification
+1. Contains syntax of creating a basic KNN (K-Nearest Neighbours) Regressor Model and predicting the outcome on a dataset created using make_regression.
+2. The application of the KNN (K-Nearest Neighbours) Regressor Model and understanding how it predicts 
 
 ## Support Vector Classifier (SVC) - Classification
 1. Contains syntax of creating a basic Support Vector Classifier (SVC) Model and predicting the outcome of the breast cancer dataset
