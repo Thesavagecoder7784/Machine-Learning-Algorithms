@@ -41,6 +41,10 @@ A repository to document the various machine learning algorithms and their appli
 1. Contains syntax of creating a basic Support Vector Classifier (SVC) Model and predicting the outcome of the breast cancer dataset
 2. The application of the Support Vector Classifier (SVC) Model and understanding how it predicts the type of iris and visualizing the data
 
+## Support Vector Regressor (SVR) - Regression
+1. Contains syntax of creating a basic Support Vector Regressor (SVR) Model and predicting the outcome of the diabetes dataset
+2. The application of the Support Vector Classifier (SVC) Model and understanding how it predicts the productivity of a worker based on the given features
+
 ## Random Forest Classifier - Classification
 1. Contains syntax of creating a basic Random Forest Classifier Model and predicting the outcome of the iris dataset
 2. The application of the Random Forest Classifier Model and understanding how it predicts the type of penguin and visualizing the data
