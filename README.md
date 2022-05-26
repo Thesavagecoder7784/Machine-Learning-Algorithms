@@ -35,7 +35,7 @@ A repository to document the various machine learning algorithms and their appli
 
 ## KNN (K-Nearest Neighbours) Regressor - Classification
 1. Contains syntax of creating a basic KNN (K-Nearest Neighbours) Regressor Model and predicting the outcome on a dataset created using make_regression.
-2. The application of the KNN (K-Nearest Neighbours) Regressor Model and understanding how it predicts 
+2. The application of the KNN (K-Nearest Neighbours) Regressor Model and understanding how it predicts the price of a car based on the given values
 
 ## Support Vector Classifier (SVC) - Classification
 1. Contains syntax of creating a basic Support Vector Classifier (SVC) Model and predicting the outcome of the breast cancer dataset
