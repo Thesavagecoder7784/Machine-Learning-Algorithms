@@ -5,9 +5,9 @@ A repository to document the various machine learning algorithms and their appli
 #### The individual files contain a problem solved by the algorithm on a dataset
 
 # How to choose the correct machine learning algorithm 
-Step 1: Understand the data to find its structure and complexity
-Step 2: Check size and timing of training data
-Step 3: Number of features
+1: Understand the data to find its structure and complexity
+2: Check size and timing of training data
+3: Number of features
 
 # List of Algorithms
 ## Linear Regression - Regression
