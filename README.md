@@ -4,11 +4,6 @@ A repository to document the various machine learning algorithms and their appli
 #### The file 'Machine Learning Algorithms.ipynb' contains the syntax and applications 
 #### The individual files contain a problem solved by the algorithm on a dataset
 
-# How to choose the correct machine learning algorithm 
-1: Understand the data to find its structure and complexity
-2: Check size and timing of training data
-3: Number of features
-
 # List of Algorithms
 ## Linear Regression - Regression
 1. Contains syntax of creating a Linear Regression Model and predicting using Linear Regression to predict prices of the Boston Housing Dataset and calculating the accuracy.
