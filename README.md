@@ -64,3 +64,9 @@ A repository to document the various machine learning algorithms and their appli
 ## Ada Boost Regressor - Regression
 1. Contains the syntax of creating a Ada Boost Regressor model and predicting the outcome on a dataset created using make_regression function of sklearn.dataset
 2. The application of the Ada Boost Regressor Model and understanding how it predicts the productivity of a worker based on the given features
+
+## XGBoost Classifier - Classification
+1. Contains the syntax and application of the XGBoost Classifier Model predicting the outcome of the iris dataset
+   
+## XGBoost Regressor - Regression
+1. Contains the syntax and the application of the XGBoost Regressor Model demonstrates predicting housing prices based on features like population and income.
